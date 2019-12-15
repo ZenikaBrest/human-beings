@@ -5,11 +5,13 @@
 A dynamically typed language, inspired by Scheme.
 
 | Qui      | Niveau    | Désirabilité |
+|----------|-----------|--------------|
 | shimaore | 0.8       |  1.0         |
 
 ### JAVA
 
 | Qui      | Niveau    | Désirabilité |
+|----------|-----------|--------------|
 | shimaore | 0.1       |  -0.5        |
 
 ## Platforms
@@ -19,11 +21,13 @@ A dynamically typed language, inspired by Scheme.
 Libuv meets V8.
 
 | Qui      | Niveau    | Désirabilité |
+|----------|-----------|--------------|
 | shimaore | 0.6       | 1.0          |
 
 ## Machine Learning
 
 | Qui      | Niveau    | Désirabilité |
+|----------|-----------|--------------|
 | shimaore | 0.1       | 1.0          |
 
 # Deploy networks / Déployer des réseaux
@@ -31,6 +35,7 @@ Libuv meets V8.
 ### Rack servers / switches / routers
 
 | Qui      | Niveau    | Désirabilité |
+|----------|-----------|--------------|
 | shimaore | 0.6       | 0.0          |
 
 
